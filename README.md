@@ -87,5 +87,5 @@ Este projeto está sob a licença **MIT** fique à vontade para usar, modificar 
 
 ## 💬 Contato
 Desenvolvido por **Kaio Seni**  
-💼 [LinkedIn]([https://www.linkedin.com/in/kaioseni](https://www.linkedin.com/in/kaio-serradela-333794189/))  
+💼 [LinkedIn](https://www.linkedin.com/in/kaioseni](https://www.linkedin.com/in/kaio-serradela-333794189 )  
 🐙 [GitHub](https://github.com/kaioseni)
